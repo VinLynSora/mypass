@@ -1,0 +1,12 @@
+{
+  "name": "mypass",
+  "version": "1.0.0",
+  "description": "A password manager that runs entirely in your browser: Python (Pyodide) for the logic, Web Crypto for the encryption.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:py": "python -m pytest",
+    "serve": "python -m http.server 8000"
+  }
+}

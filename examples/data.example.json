@@ -1,0 +1,10 @@
+{
+    "Example": {
+        "email": "you@example.com",
+        "password": "Ex@mple1Only"
+    },
+    "Another site": {
+        "email": "you@example.com",
+        "password": "Fake#Pass42"
+    }
+}
