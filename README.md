@@ -83,9 +83,3 @@ tests/                testes (pytest e node:test)
 examples/             dados de exemplo para importar
 docs/                 capturas de tela
 ```
-
-## Origem
-
-O projeto nasceu como exercício do curso *100 Days of Code* (Python), como um app desktop com Tkinter, e foi reescrito como aplicativo web.
-
-Feito por Vinícius Saraiva · [GitHub](https://github.com/VinLynSora)
